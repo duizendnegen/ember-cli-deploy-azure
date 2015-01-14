@@ -1,6 +1,7 @@
 'use strict';
 
-var AzureAdapter = require('./lib/index-adapter');
+var AzureIndexAdapter = require('./lib/azure-index');
+var AzureAssetsAdapter = require('./lib/azure-assets');
 
 module.exports = {
   name: 'ember-deploy-azure',
@@ -8,10 +9,10 @@ module.exports = {
 
   adapters: {
     index: {
-      'azure': AzureAdapter
+      'azure': AzureIndexAdapter
     },
     assets: {
-      'azure': AzureAdapter
+      'azure': AzureAssetsAdapter
     }
   }
 };
