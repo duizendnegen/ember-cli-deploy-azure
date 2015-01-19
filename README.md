@@ -1,25 +1,13 @@
 # Ember-deploy-azure
 
-This README outlines the details of collaborating on this Ember addon.
+This is the azure-adapter implementation to use both Azure Tables & CDN with
+[ember-deploy](https://github.com/levelbossmike/ember-deploy).
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `npm install ember-deploy-azure`
+* (does not work yet as it isn't registered on npm)
 
-## Running
+## C# sample code
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+https://gist.github.com/duizendnegen/85b5c4a7b7eef28f0756
