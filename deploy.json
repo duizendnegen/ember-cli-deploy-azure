@@ -1,0 +1,14 @@
+{
+  "development": {
+    "store": {
+      "type": "azure",
+      "storageAccount": "STORAGE_ACCOUNT",
+      "storageAccessKey": "STORAGE_ACCESS_KEY"
+    },
+    "assets": {
+      "type": "azure",
+      "storageAccount": "STORAGE_ACCOUNT",
+      "storageAccessKey": "STORAGE_ACCESS_KEY"
+    }
+  }
+}
