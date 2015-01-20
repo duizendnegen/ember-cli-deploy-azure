@@ -17,4 +17,4 @@ https://gist.github.com/duizendnegen/85b5c4a7b7eef28f0756
 
 Files are uploaded to `https://<STORAGE_NAME>.blob.core.windows.net/emberdeploy/<FILENAME>`
 A CDN can be pointed to this blob.
-(TODO: describe how to link index.html to the right CDN.)
+Be sure to use the right fingerprinting to appropriately request the deployed assets: http://www.ember-cli.com/asset-compilation/ - this can either be `https://<STORAGE_NAME>.blob.core.windows.net/emberdeploy/` or `http://<CDN>.vo.msecnd.net/emberdeploy/`
