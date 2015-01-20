@@ -37,11 +37,12 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
+    "azure-storage": "^0.4.2",
     "broccoli": "^0.13.2",
     "broccoli-gzip": "^0.2.0",
-    "rsvp": "^3.0.14",
-    "azure-storage": "^0.4.2",
     "chalk": "^0.5.1",
-    "ember-deploy": "^0.2.0"
+    "ember-deploy": "^0.2.0",
+    "rsvp": "^3.0.14",
+    "walk": "^2.3.9"
   }
 }
