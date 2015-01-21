@@ -7,6 +7,7 @@
     },
     "assets": {
       "type": "azure",
+      "gzip": false,
       "storageAccount": "STORAGE_ACCOUNT",
       "storageAccessKey": "STORAGE_ACCESS_KEY"
     }

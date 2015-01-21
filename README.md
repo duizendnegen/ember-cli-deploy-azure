@@ -3,9 +3,11 @@
 This is the azure-adapter implementation to use both Azure Tables & CDN with
 [ember-deploy](https://github.com/levelbossmike/ember-deploy).
 
-## Installation
+## Installation & usage
 
 * `npm install ember-deploy-azure`
+* update deploy.json to feature azure-adapters
+* make sure to set in the assets adapter gzip: false, as Azure and gziped content is currently still a mystery to me.
 
 ## Accessing the index uploaded by index-adapter
 
