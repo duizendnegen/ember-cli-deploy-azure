@@ -41,7 +41,7 @@
     "broccoli": "^0.13.2",
     "broccoli-gzip": "^0.2.0",
     "chalk": "^0.5.1",
-    "ember-deploy": "^0.3.0",
+    "core-object": "^1.1.0",
     "mime": "^1.2.11",
     "rsvp": "^3.0.14",
     "walk": "^2.3.9"
