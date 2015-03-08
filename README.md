@@ -1,11 +1,11 @@
 # Ember-deploy-azure
 
 This is the azure-adapter implementation to use both Azure Tables & CDN with
-[ember-deploy](https://github.com/levelbossmike/ember-deploy).
+[ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy).
 
 ## Installation & usage
 
-* `npm install ember-deploy-azure`
+* `npm install ember-cli-deploy ember-deploy-azure --save-dev`
 * update deploy.json to feature azure-adapters
 
 ## Accessing the index uploaded by index-adapter
