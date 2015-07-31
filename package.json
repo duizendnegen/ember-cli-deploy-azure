@@ -15,7 +15,7 @@
     "ember-cli-deploy-revision-key": "zapnito/ember-cli-deploy-revision-key#972c9d1a74095d7f664ab0f92bc632155541aaa5",
     "ember-cli-deploy-azure-tables": "0.0.2",
     "ember-cli-deploy-azure-blob": "duizendnegen/ember-cli-deploy-azure-blob#0e681fb84f373e7d886c8c020465c93767c147a0",
-    "ember-cli-deploy-display-revisions": "0.0.1",
+    "ember-cli-deploy-display-revisions": "0.0.1"
   },
   "devDependencies": {
     "ember-cli": "0.2.7"
