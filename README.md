@@ -1,6 +1,8 @@
 # Ember-cli-deploy-azure
 
-A pack of [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy) plugins for Azure implementing the 'lightning' deploys approach. This plugin pack is for `ember-cli-deploy` >= 0.5.0.
+A pack of [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy) plugins for Azure implementing the 'lightning' deploys approach.
+
++[![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-cli-deploy-azure.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
 
 ## Installation & configuration
 
