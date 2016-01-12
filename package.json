@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-deploy-azure",
   "description": "A pack of ember-cli-deploy plugins for Azure implementing the 'lightning' deploys approach.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "scripts": {
   },
   "repository": "https://github.com/duizendnegen/ember-cli-deploy-azure",
@@ -13,7 +13,7 @@
   "dependencies": {
     "ember-cli-deploy-build": "0.1.0",
     "ember-cli-deploy-revision-data": "0.1.0",
-    "ember-cli-deploy-azure-tables": "0.1.1",
+    "ember-cli-deploy-azure-tables": "0.1.2",
     "ember-cli-deploy-azure-blob": "0.1.1",
     "ember-cli-deploy-display-revisions": "0.1.0"
   },
