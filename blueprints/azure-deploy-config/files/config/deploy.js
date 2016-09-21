@@ -22,4 +22,6 @@ module.exports = function(environment) {
   }
 
   // add other environments as needed
+
+  return ENV;
 }
