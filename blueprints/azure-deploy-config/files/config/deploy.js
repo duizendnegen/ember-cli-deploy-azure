@@ -1,7 +1,7 @@
 module.exports = function(environment) {
   var ENV = {};
 
-  if(environment === 'production') {
+  if(environment === 'production' || !environment) {
     ENV["azure-tables"] = {
       storageAccount: "my-storage-account",
       storageAccessKey: "my-access-key"
