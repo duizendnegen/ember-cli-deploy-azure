@@ -20,4 +20,4 @@ Server-side multiple strategies are possible to serve the index.html-file.
 Files are uploaded to `https://<STORAGE_NAME>.blob.core.windows.net/[CONTAINER_NAME]/<FILENAME>`.
 A CDN can be pointed to this blob.
 
-Be sure to use the right fingerprinting to appropriately request the deployed assets: http://www.ember-cli.com/asset-compilation/ - this can either be `https://<STORAGE_NAME>.blob.core.windows.net/[CONTAINER_NAME]/` or `http://<CDN>.vo.msecnd.net/[CONTAINER_NAME]/`
+Be sure to use the right fingerprinting to appropriately request the deployed assets: https://ember-cli.com/user-guide/#asset-compilation - this can either be `https://<STORAGE_NAME>.blob.core.windows.net/[CONTAINER_NAME]/` or `http://<CDN>.vo.msecnd.net/[CONTAINER_NAME]/`
