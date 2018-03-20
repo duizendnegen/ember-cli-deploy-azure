@@ -14,6 +14,7 @@ A pack of [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy) plug
 Server-side multiple strategies are possible to serve the index.html-file.
 - C#-based, https://gist.github.com/duizendnegen/85b5c4a7b7eef28f0756
 - Node.js-based, [node-ember-cli-deploy-azure-tables](https://github.com/jamesdixon/node-ember-cli-deploy-azure-tables) courtesy of [jamesdixon](https://github.com/jamesdixon/)
+- Python-based [azure-lightning-flask](https://github.com/dhdemerson/azure-lightning-flask) courtesy of [dhdemerson](https://github.com/dhdemerson)
 
 ## Using a CDN
 
